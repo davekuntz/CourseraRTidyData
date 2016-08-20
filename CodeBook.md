@@ -24,7 +24,7 @@ Nine mean columns and nine standard deviation columns
 * mean.fBodyBodyAccJerkMag - Mean of FFT body acceleration jerk magnitude
 * mean.fBodyBodyGyroMag - Mean of FFT body gyration magnitude
 * mean.fBodyBodyGyroJerkMag - Mean of FFT body gyration jerk magnitude
-* std.tBodyAccMag-std() - Standard deviation of time domain body acceleration magnitude measurements
+* std.tBodyAccMag - Standard deviation of time domain body acceleration magnitude measurements
 * std.tGravityAccMag - Standard deviation of time domain gravity acceleration magnitude measurements
 * std.tBodyAccJerkMag - Standard deviation of time domain body acceleration jerk magnitute
 * std.tBodyGyroMag - Standard deviation of time domain body gyration magnitude
