@@ -1,3 +1,5 @@
+#Script to extract information from UCI HAR dataset and convert it to tidy data.  Please see README for more information.
+
 #Set directory to where UCI HAR Dataset is located if outside working directory
 dr <- ''
 
