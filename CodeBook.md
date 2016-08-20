@@ -14,7 +14,7 @@ One of six activities recorded:
 * laying - laying
 
 ##Means and Standard Deviation Columns:
-Nine mean columns and nine standard deviation columns
+Nine mean columns and nine standard deviation columns.  See readme for why I chose these nine.
 * mean.tBodyAccMag - Mean of time domain body acceleration magnitude measurements
 * mean.tGravityAccMag - Mean of time domain gravity acceleration magnitude measurements
 * mean.tBodyAccJerkMag - Mean of time domain body acceleration jerk magnitute
