@@ -6,9 +6,9 @@ Number 1-30, representing the ID of the participant in the study of 30 total par
 
 ####activity
 One of six activities recorded:
-walking - walking
-walking.upstairs - walking upstairs
-walking.downstars - walking downstairs
-sitting - sitting
-standing - standing
-laying - laying
+* walking - walking
+* walking.upstairs - walking upstairs
+* walking.downstars - walking downstairs
+* sitting - sitting
+* standing - standing
+* laying - laying
