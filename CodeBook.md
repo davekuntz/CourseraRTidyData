@@ -1,10 +1,10 @@
 #CodeBook for Tiday Data Project
 Please see README for more information
 
-###subject.number
+####subject.number
 Number 1-30, representing the ID of the participant in the study of 30 total participants
 
-###activity
+####activity
 One of six activities recorded:
 *walking - walking
 *walking.upstairs - walking upstairs
