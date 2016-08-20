@@ -62,7 +62,7 @@ names(tidy_data)[names(tidy_data)=="tGravityAccMag-std()"] <- "std.tGravityAccMa
 names(tidy_data)[names(tidy_data)=="tBodyAccJerkMag-std()"] <- "std.tBodyAccJerkMag"
 names(tidy_data)[names(tidy_data)=="tBodyGyroMag-std()"] <- "std.tBodyGyroMag"
 names(tidy_data)[names(tidy_data)=="tBodyGyroJerkMag-std()"] <- "std.tBodyGyroJerkMag"
-names(tidy_data)[names(tidy_data)=="fBodyAccMag-std()"] <- "std.fBodyAccMag-std"
+names(tidy_data)[names(tidy_data)=="fBodyAccMag-std()"] <- "std.fBodyAccMag"
 names(tidy_data)[names(tidy_data)=="fBodyBodyAccJerkMag-std()"] <- "std.fBodyBodyAccJerkMag"
 names(tidy_data)[names(tidy_data)=="fBodyBodyGyroMag-std()"] <- "std.fBodyBodyGyroMag"
 names(tidy_data)[names(tidy_data)=="fBodyBodyGyroJerkMag-std()"] <- "std.fBodyBodyGyroJerkMag"
